@@ -9,6 +9,6 @@
    Copyright		= "© Alexandre Gauthier 2011-2012, Distributed under the MIT License"
 
    PowerShellVersion	= "2.0"
-   CLRVersion		- "2.0"
+   CLRVersion		= "2.0"
 }
 
